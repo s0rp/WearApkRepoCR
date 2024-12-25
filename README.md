@@ -15,7 +15,7 @@ Zip Şifresi : 12345
 
 **Uygulamaları indirirken reklam engelleyici kullanın [UBlock Origin](https://github.com/gorhill/uBlock)**
 
-*Paralı hiçbir uygulama **burada** yayınlanmamıştır.*
+*Parasız hiçbir uygulama **burada** yayınlanmamıştır. 🤣*
 
 ##### [Daha fazla uygulama & oyun için buraya bakın](https://github.com/s0rp/WearApkRepo/)
 
