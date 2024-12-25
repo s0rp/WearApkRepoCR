@@ -5,7 +5,7 @@
 Bu depo wear os cihazlarda çalışan uygulamaların listesini sunar.
 
 
-Uygulama Sayacı : **14** 🌹
+Uygulama Sayacı : **2** 🌹
 
 Zip Şifresi : 12345
 
