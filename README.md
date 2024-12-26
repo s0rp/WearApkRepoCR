@@ -44,7 +44,7 @@ Zip Şifresi : 12345
 [Qiwi (Önerilen)](https://qiwi.gg/file/poQk5396-GtaSa) [MegaUp](https://megaup.net/1bc0d08278eaa22df23e896546e4ac1c/Gta_Sa.zip) 
 
 YEDEK:
-[MirrorAce (DAHA EKLENMEDİ)](#) [MultiUp](https://multiup.io/download/66b963162e0731d7054fb56f7c5ad1c7/Gta%20Sa.zip)
+[MirrorAce](https://mirrorace.org/m/6FGtj) [MultiUp](https://multiup.io/download/66b963162e0731d7054fb56f7c5ad1c7/Gta%20Sa.zip)
 
 ### McPe
 
